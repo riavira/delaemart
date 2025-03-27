@@ -1,12 +1,14 @@
-<yml_catalog date="2025-03-27 21:17">
-	<shop>
-		<name>Delaem.Art</name>
-		<company>Delaem.art студия аэрографии, росписи стен и граффити </company>
-		<url>https://delaem.art</url>
-		<platform>Tilda Publishing</platform>
-		<version>1.0</version>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-03-27">
+    <shop>
+        <name>Delaem.Art</name>
+        <company>Delaem.art студия аэрографии, росписи стен и граффити</company>
+        <url>https://delaem.art</url>
+        <platform>Tilda Publishing</platform>
+        <version>1.0</version>
         <currencies>
-            <currency id="RUR" rate="1"/>
+            <currency id="RUB" rate="1"/>
         </currencies>
         <categories>
             <category id="1">Роспись стен</category>
@@ -15,8 +17,8 @@
             <offer id="1" type="service" available="true">
                 <name>Муралы, роспись стен на улице, граффити</name>
                 <url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
-                <price>от 2000р</price>
-                <currencyId>RUR</currencyId>
+                <price>2000</price>
+                <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
                 <vendor>Delaem.art</vendor>
@@ -28,8 +30,8 @@
             <offer id="2" type="service" available="true">
                 <name>Роспись стен в интерьере</name>
                 <url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>
-                <price>от 2000р</price>
-                <currencyId>RUR</currencyId>
+                <price>2000</price>
+                <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
                 <vendor>Delaem.art</vendor>
@@ -37,7 +39,6 @@
                 <param name="Тип услуги">Роспись стен</param>
                 <param name="Гарантия">5 лет</param>
             </offer>
-
         </offers>
     </shop>
 </yml_catalog>
