@@ -1,27 +1,26 @@
-<yml_catalog date="2025-03-27T18:21:17+03:00">
+<yml_catalog date="2025-03-27 21:17">
 	<shop>
-		<name>Студия аэрографии Delaem.Art</name>
-		<company>Delaemart роспись стен</company>
+		<name>Delaem.Art</name>
+		<company>Delaem.art студия аэрографии, росписи стен и граффити </company>
 		<url>https://delaem.art</url>
 		<platform>Tilda Publishing</platform>
 		<version>1.0</version>
         <currencies>
-            <currency id="KZT" rate="1"/>
+            <currency id="RUR" rate="1"/>
         </currencies>
         <categories>
-            <category id="1">Художественные услуги</category>
+            <category id="1">Роспись стен</category>
         </categories>
         <offers>
-
             <offer id="1" type="service" available="true">
                 <name>Муралы, роспись стен на улице, граффити</name>
                 <url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
-                <price></price>
-                <currencyId></currencyId>
+                <price>от 2000р</price>
+                <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
                 <vendor>Delaem.art</vendor>
-                <description>Работы на улице и масштабные рисунки.</description>
+                <description>Работы на улице и масштабные рисунки. В расчёте стоимости учитываем - масштаб рисунка; необходимость работы на высоте; аренду высотной техники и оборудования; расходные материалы стойкие к атмосферным явлениям.</description>
                 <param name="Тип услуги">Роспись стен</param>
                 <param name="Гарантия">2 года</param>
             </offer>
@@ -29,12 +28,12 @@
             <offer id="2" type="service" available="true">
                 <name>Роспись стен в интерьере</name>
                 <url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>
-                <price></price>
-                <currencyId></currencyId>
+                <price>от 2000р</price>
+                <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
                 <vendor>Delaem.art</vendor>
-                <description>Художественная роспись, сложная абстрактная покраска, граффити в помещениях</description>
+                <description>Художественная роспись, сложная абстрактная покраска, граффити в помещениях. Стоимость зависит от - сложности и детализации рисунка; общей площади; высоты помещения; необходимости применения специфических материалов; состояния поверхности; необходимости проведения подготовительных работ.</description>
                 <param name="Тип услуги">Роспись стен</param>
                 <param name="Гарантия">5 лет</param>
             </offer>
