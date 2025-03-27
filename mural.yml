@@ -1,42 +1,46 @@
-<yml_catalog date="2025-03-27">
-    <shop>
-        <name>Delaem.Art</name>
-        <company>Delaem.art студия аэрографии, росписи стен и граффити</company>
-        <url>https://delaem.art</url>
-        <platform>Tilda Publishing</platform>
-        <version>1.0</version>
-        <currencies>
-            <currency id="RUB" rate="1"/>
-        </currencies>
-        <categories>
-            <category id="1">Роспись стен</category>
-        </categories>
-        <offers>
-            <offer id="1" type="service" available="true">
-                <name>Муралы, роспись стен на улице, граффити</name>
-                <url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
-                <price>2000</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
-                <vendor>Delaem.art</vendor>
-                <description>Работы на улице и масштабные рисунки. В расчёте стоимости учитываем - масштаб рисунка; необходимость работы на высоте; аренду высотной техники и оборудования; расходные материалы стойкие к атмосферным явлениям.</description>
-                <param name="Тип услуги">Роспись стен</param>
-                <param name="Гарантия">2 года</param>
-            </offer>
-
-            <offer id="2" type="service" available="true">
-                <name>Роспись стен в интерьере</name>
-                <url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>
-                <price>2000</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
-                <vendor>Delaem.art</vendor>
-                <description>Художественная роспись, сложная абстрактная покраска, граффити в помещениях. Стоимость зависит от - сложности и детализации рисунка; общей площади; высоты помещения; необходимости применения специфических материалов; состояния поверхности; необходимости проведения подготовительных работ.</description>
-                <param name="Тип услуги">Роспись стен</param>
-                <param name="Гарантия">5 лет</param>
-            </offer>
-        </offers>
-    </shop>
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-03-27T20:42:34+03:00">
+	<shop>
+		<name>Студия аэрографии Delaem.Art</name>
+		<company>Delaemart роспись стен</company>
+		<url>https://delaem.art</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="733218432312">Роспись стен</category>
+		</categories>
+		<offers>
+		<offer id="494891534232">
+			<name>Муралы, роспись стен на улице, граффити</name>
+			<description>
+<![CDATA[
+В расчёте стоимости учитываем:<br /><br /><ul><li data-list="bullet">масштаб рисунка;</li><li data-list="bullet">необходимость работы на высоте;</li><li data-list="bullet">аренду высотной техники и оборудования;</li><li data-list="bullet">расходные материалы стойкие к атмосферным явлениям.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
+			<url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
+			<count>9999</count>
+			<price>2000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>733218432312</categoryId>
+		</offer>
+		<offer id="379333135362">
+			<name>Роспись стен в интерьере</name>
+			<description>
+<![CDATA[
+Стоимость зависит от:<br /><br /><ul><li data-list="bullet">сложности и детализации рисунка;</li><li data-list="bullet">общей площади;</li><li data-list="bullet">высоты помещения;</li><li data-list="bullet">необходимости применения специфических материалов;</li><li data-list="bullet">состояния поверхности;</li><li data-list="bullet">необходимости проведения подготовительных работ.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
+			<url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>
+			<count>9999</count>
+			<price>2000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>733218432312</categoryId>
+		</offer>
+		</offers>
+	</shop>
 </yml_catalog>
