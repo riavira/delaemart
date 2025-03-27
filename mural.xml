@@ -12,6 +12,16 @@
 		<categories>
 			<category id="733218432312">Роспись стен</category>
 		</categories>
+		<sets>
+      	<set id="s1">
+        <name>Муралы. Роспись опорных стен</name>
+        <url>https://delaem.art/mural</url>
+     	</set>
+	<set id="s2">
+        <name>Роспись в интерьере</name>
+        <url>https://delaem.art/business</url>
+        </set>
+	</sets>
 		<offers>
 		<offer id="494891534232">
 			<name>Муралы, роспись стен на улице, граффити</name>
@@ -22,11 +32,14 @@
 			</description>
 			<picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
 			<url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
-			<count>9999</count>
-			<price>2000.00</price>
+			<price from="true">2000</price>
 			<currencyId>RUR</currencyId>
+			<sales_notes>от р/кв м</sales_notes>
 			<categoryId>733218432312</categoryId>
-		</offer>
+			<set-ids>s1</set-ids>
+			<adult>false</adult>
+        		<expiry>P5Y</expiry>
+    		</offer>
 		<offer id="379333135362">
 			<name>Роспись стен в интерьере</name>
 			<description>
@@ -36,10 +49,13 @@
 			</description>
 			<picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
 			<url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>
-			<count>9999</count>
-			<price>2000.00</price>
+			<price from="true">2000</price>
 			<currencyId>RUR</currencyId>
+			<sales_notes>от р/кв м</sales_notes>
 			<categoryId>733218432312</categoryId>
+			<set-ids>s2</set-ids>
+			<adult>false</adult>
+        		<expiry>P5Y</expiry>
 		</offer>
 		</offers>
 	</shop>
