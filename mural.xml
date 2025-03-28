@@ -39,6 +39,7 @@
 			<set-ids>s1</set-ids>
 			<adult>false</adult>
         		<expiry>P5Y</expiry>
+			<param name="Годы опыта">18</param>
     		</offer>
 		<offer id="379333135362">
 			<name>Роспись стен в интерьере</name>
@@ -56,6 +57,7 @@
 			<set-ids>s2</set-ids>
 			<adult>false</adult>
         		<expiry>P5Y</expiry>
+			<param name="Годы опыта">18</param>
 		</offer>
 		</offers>
 	</shop>
