@@ -39,7 +39,10 @@
 			<set-ids>s1</set-ids>
 			<adult>false</adult>
         		<expiry>P5Y</expiry>
-			<param name="Годы опыта">18</param>
+			 <param name="Рейтинг">5.0</param>
+        		<param name="Число отзывов">6</param>
+        		<param name="Годы опыта">18</param>
+        		<param name="Регион">Сочи</param>
     		</offer>
 		<offer id="379333135362">
 			<name>Роспись стен в интерьере</name>
@@ -57,7 +60,10 @@
 			<set-ids>s2</set-ids>
 			<adult>false</adult>
         		<expiry>P5Y</expiry>
-			<param name="Годы опыта">18</param>
+			<param name="Рейтинг">5.0</param>
+        		<param name="Число отзывов">6</param>
+        		<param name="Годы опыта">18</param>
+        		<param name="Регион">Сочи</param>
 		</offer>
 		</offers>
 	</shop>
