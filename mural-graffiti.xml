@@ -29,7 +29,7 @@
         <url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
         <price>2000</price>
         <currencyId>RUR</currencyId>
-        <sales_notes>от р/кв. итоговая стоимость зависит от деталей работы</sales_notes>
+        <sales_notes>от р/кв.</sales_notes>
         <categoryId>2</categoryId>
         <set-ids>s1</set-ids>
         <picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
@@ -40,13 +40,14 @@
         <param name="Число отзывов">6</param>
         <param name="Годы опыта">18</param>
         <param name="Регион">Сочи</param>
+        <param name="Конверсия">1.935</param>
       </offer>
       <offer id="379333135362">
         <name>Delaem.Art Роспись стен</name>
         <url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>        <price>200</price>
         <price>2000</price>
         <currencyId>RUR</currencyId>
-        <sales_notes>от р/кв. итоговая стоимость зависит от деталей работы</sales_notes>
+        <sales_notes>от р/кв.</sales_notes>
         <categoryId>3</categoryId>
         <set-ids>s2</set-ids>
         <picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
@@ -57,6 +58,7 @@
         <param name="Число отзывов">6</param>
         <param name="Годы опыта">18</param>
         <param name="Регион">Сочи</param>
+        <param name="Конверсия">1.935</param>
       </offer>
     </offers>
   </shop>
