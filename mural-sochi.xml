@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2025-03-28 11:44">
+  <shop>
+    <name>Delaem.Art cтудия аэрографии, росписи стен и граффити </name>
+    <company>Delaem.Art роспись стен</company>
+    <url>delaem.art</url>
+    <email>aerokrasa@gmail.com</email>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Роспись стен</category>
+      <category id="2" parentId="1">Муралы</category>
+      <category id="3" parentId="2">Интерьер</category>
+    </categories>
+    <sets>
+      <set id="s1">
+        <name>Муралы. Роспись опорных стен</name>
+        <url>https://delaem.art/mural</url>
+      </set>
+      <set id="s2">
+        <name>Роспись в интерьере</name>
+        <url>https://delaem.art/business</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="494891534232">
+        <name>Delaem.Art Муралы</name>
+        <url>https://delaem.art/tproduct/914289283-494891534232-murali-rospis-sten-na-ulitse-graffiti</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <sales_notes>от р/кв.</sales_notes>
+        <categoryId>2</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://static.tildacdn.com/tild3335-3362-4839-a666-313366383730/noroot.png</picture>
+        <description>Работы на улице и масштабные рисунки. В расчёте стоимости учитываем: масштаб рисунка; необходимость работы на высоте; аренду высотной техники и оборудования; расходные материалы стойкие к атмосферным явлениям.</description>
+        <adult>false</adult>
+        <expiry>P5Y</expiry>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">6</param>
+        <param name="Годы опыта">18</param>
+        <param name="Регион">Сочи</param>
+        <param name="Конверсия">1.935</param>
+      </offer>
+      <offer id="379333135362">
+        <name>Delaem.Art Роспись стен</name>
+        <url>https://delaem.art/tproduct/914289283-379333135362-rospis-sten-v-interere</url>        
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <sales_notes>от р/кв.</sales_notes>
+        <categoryId>3</categoryId>
+        <set-ids>s2</set-ids>
+        <picture>https://static.tildacdn.com/tild6161-3166-4938-b864-386664376563/noroot.png</picture>
+        <description>Роспись стен в интерьере. Художественная роспись, сложная абстрактная покраска, граффити в помещениях. Стоимость зависит от: сложности и детализации рисунка; общей площади; высоты помещения; необходимости применения специфических материалов; состояния поверхности; необходимости проведения подготовительных работ. </description>
+        <adult>false</adult>
+        <expiry>P5Y</expiry>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">6</param>
+        <param name="Годы опыта">18</param>
+        <param name="Регион">Сочи</param>
+        <param name="Конверсия">1.935</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
